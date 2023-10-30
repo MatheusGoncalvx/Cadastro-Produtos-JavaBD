@@ -5,23 +5,18 @@
 ##
 ### Telas do Projeto
 
-- Tela de Login do administrador
-<img src=https://i.ibb.co/ysr01K0/Tela-de-Login.png alt="carro pronto">
+| Tela de Login do Administrador | Tela de Cadastro do Administrador |
+| ------------------------------ | ------------------------------    |
+| ![Tela de Login](https://i.ibb.co/ysr01K0/Tela-de-Login.png) | ![Tela de Cadastro](https://i.ibb.co/LzvSpFZ/Tela-de-Cadastro.png) |
 
-- Tela de Cadastro do admnistrador
-  <br>
+| Menu de Opções | Tela CRUD Produtos e Alimentos |
+| ------------------------------ | ------------------------------    |
+| ![Tela de Login](https://i.ibb.co/ysr01K0/Tela-de-Login.png) | ![Tela de Cadastro](https://i.ibb.co/LzvSpFZ/Tela-de-Cadastro.png) |
 
-- Menu de opções
-  <br>
+| Tela CRUD Fornecedor           | Tela CRUD Categoria               |
+| ------------------------------ | --------------------------------  |
+| ![Tela de Login](https://i.ibb.co/ysr01K0/Tela-de-Login.png) | ![Tela de Cadastro](https://i.ibb.co/LzvSpFZ/Tela-de-Cadastro.png) |
 
-- Tela CRUD Produtos e Alimentos
-  <br>
-
-- Tela CRUD Fornecedor
-  <br>
-
-- Tela CRUD Categoria
-  <br>
-##
 ### Colaboradora
-<a href="https://github.com/tat1546"><img src="https://avatars.githubusercontent.com/u/126589385?v" width="200px;" alt=""/>
+<a href="https://github.com/tat1546"><img src="https://avatars.githubusercontent.com/u/126589385?v" width="200px;" alt=""/><br>
+<h4>Tatiane Guzman</h4>
