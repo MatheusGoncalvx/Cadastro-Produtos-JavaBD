@@ -23,6 +23,5 @@
 - Tela CRUD Categoria
   <br>
 ##
-
-## Colaboradora
+### Colaboradora
 <a href="https://github.com/tat1546"><img src="https://avatars.githubusercontent.com/u/126589385?v" width="200px;" alt=""/>
