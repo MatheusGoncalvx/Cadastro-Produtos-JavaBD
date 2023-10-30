@@ -24,8 +24,5 @@
   <br>
 ##
 
-## DATABASE
-https://uploadnow.io/files/cr42mgt
-
 ## Colaboradora
 <a href="https://github.com/tat1546"><img src="https://avatars.githubusercontent.com/u/126589385?v" width="200px;" alt=""/>
