@@ -4,3 +4,28 @@
 
 ##
 ### Telas do Projeto
+
+- Tela de Login do administrador
+<img src=https://i.ibb.co/ysr01K0/Tela-de-Login.png alt="carro pronto">
+
+- Tela de Cadastro do admnistrador
+  <br>
+
+- Menu de opções
+  <br>
+
+- Tela CRUD Produtos e Alimentos
+  <br>
+
+- Tela CRUD Fornecedor
+  <br>
+
+- Tela CRUD Categoria
+  <br>
+##
+
+## DATABASE
+<br>
+
+## Colaboradora
+<a href="https://github.com/tat1546"><img src="https://avatars.githubusercontent.com/u/126589385?v" width="200px;" alt=""/>
