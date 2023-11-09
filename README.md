@@ -18,5 +18,6 @@
 | ![Tela de Login](https://i.ibb.co/ysr01K0/Tela-de-Login.png) | ![Tela de Cadastro](https://i.ibb.co/LzvSpFZ/Tela-de-Cadastro.png) |
 
 ### Colaboradora
-<a href="https://github.com/tat1546"><img src="https://avatars.githubusercontent.com/u/126589385?v" width="200px;" alt=""/><br>
-<h4>Tatiane Guzman</h4>
+| <a href="https://github.com/tat1546"><img src="https://avatars.githubusercontent.com/u/126589385?v" width="200px;" alt="Tatiane Guzman"/> |
+| --- |
+| Tatiane Guzman |
